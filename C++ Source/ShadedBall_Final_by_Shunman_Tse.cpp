@@ -1,5 +1,5 @@
 /************************************************************
-	Name:		Shunman Tse
+	Name:		Shunman Tse (Shun Man Tse)
 	NID:		13382418
 	Course:		CS4533 Interactive Computer Graphics
 	Semester:	Spring 2015
